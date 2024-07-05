@@ -1,0 +1,28 @@
+<resources>
+    <string name="toolbarLabel">MyQuizz - Guilliam MORISSET</string>
+    <string name="app_name">MyQuizz</string>
+    <string name="startButton">Démarrer le quizz !</string>
+    <string name="pseudoEditText">Entre ton pseudo</string>
+    <string name="switchThemeText">Change le thème</string>
+    <string name="changeLanguageText">Langue</string>
+    <string name="currentQuestionNumber">1</string>
+    <string name="numberOfQuestions">5</string>
+    <string name="currentQuestionTextView">Question</string>
+    <string name="validateAnswerButton">Valider la réponse</string>
+    <string name="scoreTextView">Votre score</string>
+    <string name="bestScoreTextView">Meilleur score : </string>
+    <string name="question1">Quelle planète est la planète la plus proche du Soleil ?</string>
+    <string name="questionAnswer1">Mercure</string>
+    <string name="question2">Quel est le plus grand désert du monde ?</string>
+    <string name="questionAnswer2">Le désert de l\'Antarctique</string>
+    <string name="question3">Quelle est la capitale de l\'Australie ?</string>
+    <string name="questionAnswer3">Canberra</string>
+    <string name="question4">Le Mont Everest est la plus haute montagne du monde.</string>
+    <string name="questionAnswer4">Vrai</string>
+    <string name="question5">Quel est l\'élément chimique représenté par le symbole \'O\' ?</string>
+    <string name="questionAnswer5">Oxygène</string>
+    <string name="usernameToast">Veuillez entrer votre pseudo</string>
+    <string name="answerToast">"Veuillez sélectionner une réponse"</string>
+    <string name="selectLanguage">Sélectionner une langue</string>
+    <string name="returnToStartButton">Ecran principal</string>
+</resources>

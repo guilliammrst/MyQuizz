@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questionAnswers1">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+    <string-array name="questionAnswers2">
+        <item>Sahara Desert</item>
+        <item>Gobi Desert</item>
+        <item>Antarctic Desert</item>
+        <item>Kalahari Desert</item>
+    </string-array>
+    <string-array name="questionAnswers3">
+        <item>Sydney</item>
+        <item>Melbourne</item>
+        <item>Canberra</item>
+        <item>Brisbane</item>
+    </string-array>
+    <string-array name="questionAnswers4">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers5">
+        <item>Gold</item>
+        <item>Oxygen</item>
+        <item>Osmium</item>
+        <item>Oganesson</item>
+    </string-array>
+</resources>

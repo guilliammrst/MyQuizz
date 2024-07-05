@@ -1,0 +1,28 @@
+<resources>
+    <string name="toolbarLabel">MyQuizz - Guilliam MORISSET</string>
+    <string name="app_name">MyQuizz</string>
+    <string name="startButton">Start the quiz!</string>
+    <string name="pseudoEditText">Enter your username</string>
+    <string name="switchThemeText">Change theme</string>
+    <string name="changeLanguageText">Language</string>
+    <string name="currentQuestionNumber">1</string>
+    <string name="numberOfQuestions">5</string>
+    <string name="currentQuestionTextView">Question</string>
+    <string name="validateAnswerButton">Submit answer</string>
+    <string name="scoreTextView">Your score</string>
+    <string name="bestScoreTextView">Best score: </string>
+    <string name="question1">Which planet is the closest to the Sun?</string>
+    <string name="questionAnswer1">Mercury</string>
+    <string name="question2">What is the largest desert in the world?</string>
+    <string name="questionAnswer2">Antarctic Desert</string>
+    <string name="question3">What is the capital of Australia?</string>
+    <string name="questionAnswer3">Canberra</string>
+    <string name="question4">Mount Everest is the highest mountain in the world.</string>
+    <string name="questionAnswer4">True</string>
+    <string name="question5">What is the chemical element represented by the symbol \'O\'?</string>
+    <string name="questionAnswer5">Oxygen</string>
+    <string name="usernameToast">Please enter a username</string>
+    <string name="answerToast">"Please select an answer"</string>
+    <string name="selectLanguage">Select a language</string>
+    <string name="returnToStartButton">Main menu</string>
+</resources>
