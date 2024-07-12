@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="availableLanguages">
+        <item>English</item>
+        <item>Français</item>
+    </string-array>
     <string-array name="questionAnswers1">
         <item>Mercure</item>
         <item>Vénus</item>
@@ -28,8 +32,247 @@
         <item>Osmium</item>
         <item>Oganesson</item>
     </string-array>
-    <string-array name="availableLanguages">
-        <item>English</item>
-        <item>Français</item>
+    <string-array name="questionAnswers6">
+        <item>Paris</item>
+        <item>Londres</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+    </string-array>
+    <string-array name="questionAnswers7">
+        <item>Jupiter</item>
+        <item>Saturne</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="questionAnswers8">
+        <item>Électricité</item>
+        <item>Eau</item>
+        <item>Gaz naturel</item>
+        <item>Pétrole</item>
+    </string-array>
+    <string-array name="questionAnswers9">
+        <item>La Tour Eiffel</item>
+        <item>La Statue de la Liberté</item>
+        <item>Le Colisée</item>
+        <item>La Grande Muraille de Chine</item>
+    </string-array>
+    <string-array name="questionAnswers10">
+        <item>Chien</item>
+        <item>Chat</item>
+        <item>Oiseau</item>
+        <item>Poisson</item>
+    </string-array>
+    <string-array name="questionAnswers11">
+        <item>France</item>
+        <item>Vatican</item>
+        <item>Espagne</item>
+        <item>Allemagne</item>
+    </string-array>
+    <string-array name="questionAnswers12">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="questionAnswers13">
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="questionAnswers14">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Cricket</item>
+        <item>Baseball</item>
+    </string-array>
+    <string-array name="questionAnswers15">
+        <item>Rouge</item>
+        <item>Vert</item>
+        <item>Bleu</item>
+        <item>Jaune</item>
+    </string-array>
+    <string-array name="questionAnswers16">
+        <item>Piano</item>
+        <item>Guitare</item>
+        <item>Violon</item>
+        <item>Flûte</item>
+    </string-array>
+    <string-array name="questionAnswers17">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers18">
+        <item>Monaco</item>
+        <item>Pays-Bas</item>
+        <item>Grèce</item>
+        <item>Cameroun</item>
+    </string-array>
+    <string-array name="questionAnswers19">
+        <item>Amazonie</item>
+        <item>Nil</item>
+        <item>Yangtsé</item>
+    </string-array>
+    <string-array name="questionAnswers20">
+        <item>Mercure</item>
+        <item>Vénus</item>
+        <item>Terre</item>
+    </string-array>
+    <string-array name="questionAnswers21">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="questionAnswers22">
+        <item>7</item>
+        <item>8</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="questionAnswers23">
+        <item>Azote</item>
+        <item>Hydrogène</item>
+        <item>Oxygène</item>
+        <item>Carbone</item>
+    </string-array>
+    <string-array name="questionAnswers24">
+        <item>Juillet</item>
+        <item>Août</item>
+        <item>Septembre</item>
+        <item>Octobre</item>
+    </string-array>
+    <string-array name="questionAnswers25">
+        <item>Atlantique</item>
+        <item>Arctique</item>
+        <item>Pacifique</item>
+    </string-array>
+    <string-array name="questionAnswers26">
+        <item>Java</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>Ruby</item>
+    </string-array>
+    <string-array name="questionAnswers27">
+        <item>Grosse</item>
+        <item>Moyenne</item>
+        <item>Petite</item>
+    </string-array>
+    <string-array name="questionAnswers28">
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="questionAnswers29">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers30">
+        <item>3</item>
+        <item>4</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="questionAnswers31">
+        <item>Parc</item>
+        <item>Musée</item>
+        <item>Bibliothèque</item>
+        <item>Cinéma</item>
+    </string-array>
+    <string-array name="questionAnswers32">
+        <item>Ouest</item>
+        <item>Est</item>
+        <item>Sud</item>
+    </string-array>
+    <string-array name="questionAnswers33">
+        <item>Python</item>
+        <item>C++</item>
+        <item>JavaScript</item>
+    </string-array>
+    <string-array name="questionAnswers34">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers35">
+        <item>Fruits</item>
+        <item>Légumes</item>
+        <item>Viandes</item>
+        <item>Produits laitiers</item>
+    </string-array>
+    <string-array name="questionAnswers36">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers37">
+        <item>Avion</item>
+        <item>Voiture</item>
+        <item>Cheval</item>
+        <item>Vélo</item>
+    </string-array>
+    <string-array name="questionAnswers38">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+    <string-array name="questionAnswers39">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="questionAnswers40">
+        <item>Tableau</item>
+        <item>Chaise</item>
+        <item>Lit</item>
+        <item>Armoire</item>
+    </string-array>
+    <string-array name="questionAnswers41">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers42">
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="questionAnswers43">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers44">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="questionAnswers45">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers46">
+        <item>Est</item>
+        <item>Ouest</item>
+        <item>Nord</item>
+        <item>Sud</item>
+    </string-array>
+    <string-array name="questionAnswers47">
+        <item>Los Angeles</item>
+        <item>New York</item>
+        <item>Washington D.C.</item>
+    </string-array>
+    <string-array name="questionAnswers48">
+        <item>Où</item>
+        <item>Quand</item>
+        <item>Pourquoi</item>
+        <item>Comment</item>
+    </string-array>
+    <string-array name="questionAnswers49">
+        <item>Vrai</item>
+        <item>Faux</item>
+    </string-array>
+    <string-array name="questionAnswers50">
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
     </string-array>
 </resources>

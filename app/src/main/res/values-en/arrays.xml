@@ -28,4 +28,241 @@
         <item>Osmium</item>
         <item>Oganesson</item>
     </string-array>
+    <string-array name="questionAnswers6">
+        <item>Paris</item>
+        <item>London</item>
+        <item>Berlin</item>
+        <item>Rome</item>
+    </string-array>
+    <string-array name="questionAnswers7">
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+    <string-array name="questionAnswers8">
+        <item>Electricity</item>
+        <item>Water</item>
+        <item>Natural Gas</item>
+        <item>Oil</item>
+    </string-array>
+    <string-array name="questionAnswers9">
+        <item>Eiffel Tower</item>
+        <item>Statue of Liberty</item>
+        <item>Colosseum</item>
+        <item>Great Wall of China</item>
+    </string-array>
+    <string-array name="questionAnswers10">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Bird</item>
+        <item>Fish</item>
+    </string-array>
+    <string-array name="questionAnswers11">
+        <item>France</item>
+        <item>Vatican</item>
+        <item>Spain</item>
+        <item>Germany</item>
+    </string-array>
+    <string-array name="questionAnswers12">
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+    </string-array>
+    <string-array name="questionAnswers13">
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+    </string-array>
+    <string-array name="questionAnswers14">
+        <item>Football</item>
+        <item>Basketball</item>
+        <item>Cricket</item>
+        <item>Baseball</item>
+    </string-array>
+    <string-array name="questionAnswers15">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+    </string-array>
+    <string-array name="questionAnswers16">
+        <item>Piano</item>
+        <item>Guitar</item>
+        <item>Violin</item>
+        <item>Flute</item>
+    </string-array>
+    <string-array name="questionAnswers17">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers18">
+        <item>Monaco</item>
+        <item>Netherlands</item>
+        <item>Greece</item>
+        <item>Cameroon</item>
+    </string-array>
+    <string-array name="questionAnswers19">
+        <item>Amazon</item>
+        <item>Nile</item>
+        <item>Yangtze</item>
+    </string-array>
+    <string-array name="questionAnswers20">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+    </string-array>
+    <string-array name="questionAnswers21">
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="questionAnswers22">
+        <item>7</item>
+        <item>8</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="questionAnswers23">
+        <item>Nitrogen</item>
+        <item>Hydrogen</item>
+        <item>Oxygen</item>
+        <item>Carbon</item>
+    </string-array>
+    <string-array name="questionAnswers24">
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+    </string-array>
+    <string-array name="questionAnswers25">
+        <item>Atlantic</item>
+        <item>Arctic</item>
+        <item>Pacific</item>
+    </string-array>
+    <string-array name="questionAnswers26">
+        <item>Java</item>
+        <item>Python</item>
+        <item>C++</item>
+        <item>Ruby</item>
+    </string-array>
+    <string-array name="questionAnswers27">
+        <item>Large</item>
+        <item>Medium</item>
+        <item>Small</item>
+    </string-array>
+    <string-array name="questionAnswers28">
+        <item>4</item>
+        <item>6</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="questionAnswers29">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers30">
+        <item>3</item>
+        <item>4</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="questionAnswers31">
+        <item>Park</item>
+        <item>Museum</item>
+        <item>Library</item>
+        <item>Cinema</item>
+    </string-array>
+    <string-array name="questionAnswers32">
+        <item>West</item>
+        <item>East</item>
+        <item>South</item>
+    </string-array>
+    <string-array name="questionAnswers33">
+        <item>Python</item>
+        <item>C++</item>
+        <item>JavaScript</item>
+    </string-array>
+    <string-array name="questionAnswers34">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers35">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Meats</item>
+        <item>Dairy Products</item>
+    </string-array>
+    <string-array name="questionAnswers36">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers37">
+        <item>Plane</item>
+        <item>Car</item>
+        <item>Horse</item>
+        <item>Bicycle</item>
+    </string-array>
+    <string-array name="questionAnswers38">
+        <item>16</item>
+        <item>18</item>
+        <item>20</item>
+        <item>21</item>
+    </string-array>
+    <string-array name="questionAnswers39">
+        <item>3</item>
+        <item>5</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="questionAnswers40">
+        <item>Table</item>
+        <item>Chair</item>
+        <item>Bed</item>
+        <item>Wardrobe</item>
+    </string-array>
+    <string-array name="questionAnswers41">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers42">
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="questionAnswers43">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers44">
+        <item>3</item>
+        <item>6</item>
+        <item>9</item>
+    </string-array>
+    <string-array name="questionAnswers45">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers47">
+        <item>Los Angeles</item>
+        <item>New York</item>
+        <item>Washington D.C.</item>
+    </string-array>
+    <string-array name="questionAnswers48">
+        <item>Where</item>
+        <item>When</item>
+        <item>Why</item>
+        <item>How</item>
+    </string-array>
+    <string-array name="questionAnswers49">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="questionAnswers50">
+        <item>6</item>
+        <item>8</item>
+        <item>10</item>
+        <item>12</item>
+    </string-array>
 </resources>
